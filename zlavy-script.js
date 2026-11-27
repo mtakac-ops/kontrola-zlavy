@@ -1,4 +1,4 @@
-(function () {
+javascript:(function () {
     // 1. Získanie označeného textu na stránke
     let text = window.getSelection().toString();
 
