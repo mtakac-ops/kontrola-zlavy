@@ -5,7 +5,7 @@ Jednoduchý JavaScript bookmarklet, ktorý po označení cien na stránke e-shop
 ## Ako to použiť
 1. V prehliadači vytvorte novú záložku (Ctrl+D / Cmd+D).
 2. Názov nastavte napríklad na **Overiť zľavu**.
-3. Do poľa **URL / Adresa** skopírujte tento kód zlavy-script.js
+3. Do poľa **URL / Adresa** skopírujte kód zlavy-script.js
 
 ## Postup pri nákupe
 1. Na produktovej stránke myšou označte pôvodnú cenu, cenu po zľave (a prípadne aj percento zľavy).
